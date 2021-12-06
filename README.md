@@ -3,7 +3,8 @@
 ## Description
 for challenge 5 we needed to make and scheduler thats syncs with the time in real life and have it colorcoded to when the time has passed it turns gray and the current day is indicated in the green color and the future days are colored in green. When text is written in the time blocks the user can save it using the save button on the right column saved in local storage
 
-![image](https://user-images.githubusercontent.com/92951480/144772857-5fff053e-e85a-4915-a97d-61b7d0907828.png)
+![image](https://user-images.githubusercontent.com/92951480/144773385-dece5f17-b752-40f2-a170-ec83dafbf203.png)
+
 
 ## The Application should do the following: 
 * Have the in real time on the top of the screen
